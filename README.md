@@ -1,7 +1,5 @@
 # Information Retrieval Implements
 
-[TOC]
-
 
 Multiple information retrieval and data mining techinique implements via python.
 If you want detailed report of each project please see also the pdf in folders.
